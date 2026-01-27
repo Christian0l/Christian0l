@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hola, soy Christian (Chris) 👋
 
-<!--
-**Christian0l/Christian0l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Ingeniería de Software (UNEMI)  
+🛡️ Enfoque: Web Pentesting → Red Team (formación)  
+📍 Ecuador | Buscando oportunidades remotas (ES)
 
-Here are some ideas to get you started:
+## Portafolio
+- Web notes: web-pentesting-notes
+- Reportes: web-security-reports
+- Python tools: python-security-tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Actualmente
+- Practicando: PortSwigger Web Security Academy + TryHackMe
+- Rutina: 1 lab/día + evidencia en GitHub
+
+## Contacto
+- LinkedIn: www.linkedin.com/in/christian-vera-chve-cvt
