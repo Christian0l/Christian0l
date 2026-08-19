@@ -14,3 +14,5 @@
 
 ## Contacto
 - LinkedIn: www.linkedin.com/in/christian-vera-chve-cvt
+##Certificaciones
+- Credly: https://www.credly.com/users/christian-verat
